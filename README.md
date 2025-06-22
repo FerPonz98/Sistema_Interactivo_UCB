@@ -28,11 +28,17 @@ El proyecto está orientado a estudiantes de **Ingeniería Mecatrónica** y otra
 
 # Clonar el repositorio (cuando esté publicado en GitHub o similar)
 git clone https://github.com/FerPonz98/Sistema_Interactivo_UCB.git
+
+
 cd Sistema_Interactivo_UCB
 
 
 1️⃣ Abrir el proyecto en **Unity**
+
+
 2️⃣ Configurar el **Player Settings** para Meta Quest (OpenXR activado)
+
+
 3️⃣ Hacer **build** para Android y probar en el visor
 
 ## Uso
