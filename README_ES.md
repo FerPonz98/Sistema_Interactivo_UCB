@@ -67,5 +67,3 @@ Una vez desplegada la aplicación:
 
 Este proyecto es de uso académico y no cuenta con licencia de distribución comercial en esta versión.
 
-```
-
