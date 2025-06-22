@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 684646fc29bf56e48b408c8f84f095cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cablePrefab: {fileID: 7549698527544366638, guid: 21854a8f5752d6c4090a68cf25da6d36, type: 3}
+  - botonPrefab: {fileID: 7927237147969911851, guid: bb776eb0bc8a677409c95ece671e671e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
