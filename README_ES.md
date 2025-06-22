@@ -27,10 +27,11 @@ El proyecto está orientado a estudiantes de **Ingeniería Mecatrónica** y otra
 
 
 # Clonar el repositorio (cuando esté publicado en GitHub o similar)
+```bash
+
 git clone https://github.com/FerPonz98/Sistema_Interactivo_UCB.git
-
-
 cd Sistema_Interactivo_UCB
+```
 
 
 1️⃣ Abrir el proyecto en **Unity**
@@ -67,4 +68,4 @@ Una vez desplegada la aplicación:
 Este proyecto es de uso académico y no cuenta con licencia de distribución comercial en esta versión.
 
 ```
-Add README_ES.md (Spanish version)
+
