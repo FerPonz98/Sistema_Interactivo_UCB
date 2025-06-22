@@ -24,6 +24,11 @@ The project is aimed at **Mechatronics Engineering** students and related fields
 - **Cable or wireless connection** for testing (Air Link or similar)
 
 ### Basic Steps
+Clone the repository:
+```bash
+git clone https://github.com/FerPonz98/Sistema_Interactivo_UCB.git
+cd Sistema_Interactivo_UCB
+```
 
 1️⃣ **Open the project in Unity**  
 2️⃣ **Configure the Player Settings for Meta Quest (OpenXR enabled)**  
